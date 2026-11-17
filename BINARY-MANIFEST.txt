@@ -1,0 +1,7 @@
+Corresponding published binary inspected for this reconstruction
+File: nvidiumplus26.3-1.0.0.jar
+Mod id: nvidiumplus
+Mod version: 26.3-1.0.0
+Embedded build commit identifier: 27ceb72
+SHA-256: 543834b1dcaa58489a2c6d51eb70f4a4dbceb3ea4494779a25c871bd3adefe33
+Source of truth: user-provided JAR attached in this conversation.
